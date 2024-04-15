@@ -67,3 +67,9 @@
 </p>
 <br />
 <br />
+
+Add:
+- pnpm
+- Turbo
+
+Idea: Github Action that adds automatically
