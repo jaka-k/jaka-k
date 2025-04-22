@@ -4,7 +4,7 @@ As a software engineer, I love building clean, explicit systems. My toolbox incl
 
 My path into tech wasn't through traditional CS—I studied political science first. But somewhere along the way, I realized I wanted to build things—real things that work. Six years ago, JavaScript became my gateway: first vanilla React, then Next.js, and I’ve never really looked back. Today, this unconventional background helps me bridge gaps between developers, designers, and stakeholders, making sure we build something valuable, not just technically perfect.
 
-Professionally, my experience spans from leading frontend rewrites in React and Next.js, to building backend services that scale reliably in Go. On weekends, you'll often find me tackling ambitious side projects—like my Multiagent RAG Chat, an LLM-powered learning app integrated directly with my Anki decks. I believe in rigorous yet pragmatic code, explicit interfaces, typed everything, and well-managed complexity.
+Professionally, my experience spans from leading frontend rewrites in React and Next.js, to building backend services that scale reliably in Go. On weekends, you'll often find me tackling ambitious side projects—like my [Multiagent RAG Chat](https://github.com/jaka-k/multiagent-rag-system), an LLM-powered learning app integrated directly with my Anki decks. I believe in rigorous yet pragmatic code, explicit interfaces, typed everything, and well-managed complexity.
 
 What sets me apart:
 - **A genuine enthusiasm for understanding systems**, not just frameworks.
