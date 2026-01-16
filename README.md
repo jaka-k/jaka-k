@@ -10,7 +10,6 @@ What sets me apart:
 - **A genuine enthusiasm for understanding systems**, not just frameworks.
 - **An ability to focus deeply**, turning complexity into clarity.
 - **A healthy skepticism of dogma and tribalism** (yes, even in the JS and Go ecosystems).
-- **Enough weekend hacking to rival years of internships**.
 
 Outside coding, you’ll find me lifting weights at the gym, hiking mountains, playing basketball, or traveling Europe to visit friends, usually with dark techno beats keeping me company.
 
